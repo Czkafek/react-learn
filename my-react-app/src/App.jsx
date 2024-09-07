@@ -19,12 +19,13 @@ import MyComponent7 from './MyComponent7.jsx'
 import MyComponent8 from './MyComponent8.jsx'
 import Colorpicker from './assets/ColorPicker.jsx'
 import ToDoList from './ToDoList.jsx';
+import DigitalClock from './DigitalClock.jsx'
 
 function App() {
   
   return(
     <>
-       <MyComponent8 />
+       <DigitalClock />
     </>
   );
 
