@@ -20,13 +20,16 @@ import MyComponent8 from './MyComponent8.jsx'
 import Colorpicker from './assets/ColorPicker.jsx'
 import ToDoList from './ToDoList.jsx';
 import DigitalClock from './DigitalClock.jsx'
+import ComponentA from './ComponentA.jsx'
+import MyComponent9 from './MyComponent9.jsx'
+import StopWatch from './StopWatch.jsx'
 
 function App() {
   
   return(
-    <>
-       <DigitalClock />
-    </>
+    <div>
+      
+    </div>
   );
 
 }
